@@ -1,0 +1,1 @@
+# Create-.htaccess-Page-And-Link-Them-to-styled-css-website-for-404-error.
